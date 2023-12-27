@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Ian Ng",
+  "siteUrl": "https://ianng.netlify.com/",
+  "description": "Ian Ng",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Ian Ng",
+    "description": "Hi! I'm Ian, a Stanford undergraduate and masters' computer science student, with experience in industry software engineering and artificial intelligence research. I'm currently a researcher at the Stanford IRIS (Intelligence through Robotic Interactions at Scale) Lab, where I try to teach robots to do tasks correctly. In my free time, I like to mess around with music, write puzzles, and make games. Check out some of my work with the links above!"
   }
 }
