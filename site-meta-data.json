@@ -1,9 +1,9 @@
 {
   "title": "Ian Ng",
   "siteUrl": "https://ianng.netlify.com/",
-  "description": "Ian Ng",
+  "description": "Home | Ian Ng",
   "home": {
-    "title": "Ian Ng",
-    "description": "Hi! I'm Ian, a Stanford undergraduate and masters' computer science student, with experience in industry software engineering and artificial intelligence research. I'm currently a researcher at the Stanford IRIS (Intelligence through Robotic Interactions at Scale) Lab, where I try to teach robots to do tasks correctly. In my free time, I like to mess around with music, write puzzles, and make games. Check out some of my work with the links above!"
+    "title": "Hi! I'm Ian",
+    "description": "I'm a Stanford undergraduate and masters' computer science student, with experience in industry software engineering and artificial intelligence research. I'm currently a researcher at the Stanford IRIS (Intelligence through Robotic Interactions at Scale) Lab, where I try to teach robots to do tasks correctly. In my free time, I like to mess around with music, write puzzles, and make games. Check out some of my work with the links above!"
   }
 }
